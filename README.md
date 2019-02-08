@@ -13,6 +13,11 @@
   1. ADB is not initializing but still showing loading.(**Linux**)
       > https://github.com/tango4567/solutions/issues/3
       
+
+**Ubuntu Issue**
+  1. Need Solutions For Following failure.(**Linux**)
+      > https://github.com/tango4567/solutions/issues/4
+      
       
 **Netbeans IDE**
   1. How to install Netbeans in Ubuntu.(**Linux**)
