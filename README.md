@@ -22,4 +22,8 @@
 **Netbeans IDE**
   1. How to install Netbeans in Ubuntu.(**Linux**)
       > https://github.com/tango4567/solutions/issues/5
+      
+ **BlueTooth**
+ 1. Why bluetooth device is always discoverable?
+      > https://github.com/tango4567/solutions/issues/6
 
