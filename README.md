@@ -17,6 +17,8 @@
  **Android Issue**
  1. ADB is not initializing but still showing loading.(**Firebase**)
       > https://github.com/tango4567/solutions/issues/7
+ 2. Why cleartext HTTP traffic is not allowed ?
+      > https://github.com/tango4567/solutions/issues/8
       
 
 **Ubuntu Issue**
