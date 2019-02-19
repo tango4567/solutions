@@ -13,6 +13,11 @@
   1. ADB is not initializing but still showing loading.(**Linux**)
       > https://github.com/tango4567/solutions/issues/3
       
+ 
+ **Android Issue**
+ 1. ADB is not initializing but still showing loading.(**Firebase**)
+      > https://github.com/tango4567/solutions/issues/7
+      
 
 **Ubuntu Issue**
   1. Need Solutions For Following failure.(**Linux**)
