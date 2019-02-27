@@ -33,4 +33,9 @@
  **BlueTooth**
  1. Why bluetooth device is always discoverable?
       > https://github.com/tango4567/solutions/issues/6
+      
+      
+**GitHub**
+2. Push declined due to email privacy restrictions
+      > https://github.com/tango4567/solutions/issues/9
 
