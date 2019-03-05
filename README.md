@@ -1,5 +1,6 @@
-Closed issues > https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed
-Opened issues > https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue
+1.Closed issues >https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed
+
+2.Opened issues >https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue
 
 
 
