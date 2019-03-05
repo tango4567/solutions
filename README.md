@@ -1,3 +1,7 @@
+Closed issues > https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed
+Opened issues > https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue
+
+
 
 **phpmyadmin**
   1. Issue (Environment:- **Linux**) 
