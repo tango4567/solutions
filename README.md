@@ -39,3 +39,7 @@
  1. Push declined due to email privacy?
       > https://github.com/tango4567/solutions/issues/9
 
+
+ **Python**
+ 1. How to export Anaconda path in Ubuntu(Linux)
+      > https://github.com/tango4567/solutions/issues/11
