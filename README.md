@@ -48,3 +48,8 @@
  **Python**
  1. How to export Anaconda path in Ubuntu(Linux)
       > https://github.com/tango4567/solutions/issues/11
+      
+**Angular**
+ 1. Unhandled rejection Error: EACCES: permission denied(Linux)
+      > https://github.com/tango4567/solutions/issues/12
+      
