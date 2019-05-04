@@ -53,3 +53,6 @@
  1. Unhandled rejection Error: EACCES: permission denied(Linux)
       > https://github.com/tango4567/solutions/issues/12
       
+**Atom**
+ 1. How to install Atom in Ubuntu(Linux)
+      > https://github.com/tango4567/solutions/issues/13
