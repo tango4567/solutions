@@ -56,3 +56,8 @@
 **Atom**
  1. How to install Atom in Ubuntu(Linux)
       > https://github.com/tango4567/solutions/issues/13
+      
+      
+**Azure**
+ 1. Secure storage unavailable on Ubuntu 18.04 / 19.04 ?
+      > https://github.com/Microsoft/Git-Credential-Manager-for-Mac-and-Linux/issues/115
