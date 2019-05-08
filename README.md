@@ -61,3 +61,8 @@
 **Azure**
  1. Secure storage unavailable on Ubuntu 18.04 / 19.04 ?
       > https://github.com/Microsoft/Git-Credential-Manager-for-Mac-and-Linux/issues/115#issuecomment-490196465
+ 
+ 
+ **Java**
+ 1. How to set java path  on Ubuntu 18.04 / 19.04 or higher ?
+      > https://github.com/tango4567/solutions/issues/14
