@@ -13,8 +13,9 @@ After download or clone this project you need to following steps:
     7. `npm i fsevents`
     8. `npm i @angular-devkit/build-angular`
     9. `npm i node-sass`
+    10 `npm install --save-dev karma@4.1.0`
   
-  Must check logs properly to reduce complexity.
+ Must check logs properly to reduce complexity.
     
  For Ubuntu user check you system that should have proper privileges in you current working directory.
  
