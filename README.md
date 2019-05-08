@@ -60,5 +60,4 @@
       
 **Azure**
  1. Secure storage unavailable on Ubuntu 18.04 / 19.04 ?
-      > https://github.com/Microsoft/Git-Credential-Manager-for-Mac-and-Linux/issues/115
-      > I also commented with my problem https://github.com/Microsoft/Git-Credential-Manager-for-Mac-and-Linux/issues/115#issuecomment-490196465
+      > https://github.com/Microsoft/Git-Credential-Manager-for-Mac-and-Linux/issues/115#issuecomment-490196465
