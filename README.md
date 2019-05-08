@@ -65,4 +65,4 @@
  
  **Java**
  1. How to set java path  on Ubuntu 18.04 / 19.04 or higher ?
-      > https://github.com/tango4567/solutions/issues/14
+      > https://github.com/tango4567/solutions/issues/15
