@@ -66,3 +66,10 @@
  **Java**
  1. How to set java path  on Ubuntu 18.04 / 19.04 or higher ?
       > https://github.com/tango4567/solutions/issues/15
+      
+      
+      
+# Added ANDROID_HOME variable.
+  export ANDROID_HOME=$HOME/Android/Sdk
+  export PATH=$PATH:$ANDROID_HOME/tools 
+  export PATH=$PATH:$ANDROID_HOME/platform-tools
