@@ -49,9 +49,11 @@
  1. How to export Anaconda path in Ubuntu(Linux)
       > https://github.com/tango4567/solutions/issues/11
       
-**Angular**
+**Angular** 
  1. Unhandled rejection Error: EACCES: permission denied(Linux)
       > https://github.com/tango4567/solutions/issues/12
+ 2. ERROR in The Angular Compiler requires TypeScript >=3.4.0 and <3.5.0 but 3.5.1 was found instead
+      > https://github.com/tango4567/solutions/issues/16      
       
 **Atom**
  1. How to install Atom in Ubuntu(Linux)
@@ -69,5 +71,5 @@
       
       
       
-# Added ANDROID_HOME variable.
+## Added ANDROID_HOME variable.
   export ANDROID_HOME=$HOME/Android/Sdk && export PATH=$PATH:$ANDROID_HOME/tools && export PATH=$PATH:$ANDROID_HOME/platform-tools
