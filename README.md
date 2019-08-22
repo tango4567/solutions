@@ -57,19 +57,19 @@
       
 **Atom**
  1. How to install Atom in Ubuntu(Linux)
-      > https://github.com/tango4567/solutions/issues/13
-      
+      > https://github.com/tango4567/solutions/issues/13      
       
 **Azure**
  1. Secure storage unavailable on Ubuntu 18.04 / 19.04 ?
       > https://github.com/Microsoft/Git-Credential-Manager-for-Mac-and-Linux/issues/115#issuecomment-490196465
- 
- 
+  
  **Java**
  1. How to set java path  on Ubuntu 18.04 / 19.04 or higher ?
       > https://github.com/tango4567/solutions/issues/15
       
-      
+ **Cordova**
+ 1. How to fix Failed to load resource: net::ERR_CLEARTEXT_NOT_PERMITTED  ?
+      > https://github.com/tango4567/solutions/issues/18     
       
 ## Added ANDROID_HOME variable.(DEPRECATED)
   export ANDROID_HOME=$HOME/Android/Sdk && export PATH=$PATH:$ANDROID_HOME/tools && export PATH=$PATH:$ANDROID_HOME/platform-tools
