@@ -29,7 +29,7 @@
 **Ubuntu Issue**
   1. Need Solutions For Following failure.(**Linux**)
       > https://github.com/tango4567/solutions/issues/4
-  2. Why does “(base)” appear in front of my terminal prompt?.(**Anaconda**)
+  2. Why does “(base)” appear in front of my terminal prompt?(**Anaconda**)
       > https://github.com/tango4567/solutions/issues/19
       
       
