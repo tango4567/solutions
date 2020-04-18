@@ -2,7 +2,9 @@
 
 2.Opened issues >https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue
 
-
+**TypeScript**
+  1. Issue ***Angular8 firebase configuration error '@angular/fire/angularfire2'***
+      > https://github.com/tango4567/solutions/issues/20
 
 **phpmyadmin**
   1. Issue (Environment:- **Linux**) 
