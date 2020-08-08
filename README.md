@@ -2,9 +2,13 @@
 
 2.Opened issues >https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue
 
+ **Flutter**
+ 1. Icons Rendered to Chinese character on android
+      > https://github.com/tango4567/solutions/issues/18  
+
 **TypeScript**
   1. Issue ***Angular8 firebase configuration error '@angular/fire/angularfire2'***
-      > https://github.com/tango4567/solutions/issues/20
+      > https://github.com/tango4567/solutions/issues/21
 
 **phpmyadmin**
   1. Issue (Environment:- **Linux**) 
