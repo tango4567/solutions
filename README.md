@@ -4,11 +4,11 @@
 
  **Flutter**
  1. Icons Rendered to Chinese character on android
-      > https://github.com/tango4567/solutions/issues/18  
+      > https://github.com/tango4567/solutions/issues/21  
 
 **TypeScript**
   1. Issue ***Angular8 firebase configuration error '@angular/fire/angularfire2'***
-      > https://github.com/tango4567/solutions/issues/21
+      > https://github.com/tango4567/solutions/issues/20
 
 **phpmyadmin**
   1. Issue (Environment:- **Linux**) 
