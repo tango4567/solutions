@@ -23,6 +23,8 @@
 **Android Studio**
   1. ADB is not initializing but still showing loading.(**Linux**)
       > https://github.com/tango4567/solutions/issues/3
+  2. Android Studio is showing error and not opening in Ubuntu .(**Linux**)
+      > https://github.com/tango4567/solutions/issues/22
       
  
  **Android Issue**
