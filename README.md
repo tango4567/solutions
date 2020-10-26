@@ -39,6 +39,8 @@
       > https://github.com/tango4567/solutions/issues/4
   2. Why does “(base)” appear in front of my terminal prompt?(**Anaconda**)
       > https://github.com/tango4567/solutions/issues/19
+  3. Why Black Screen on boot after installing amdgpu-pro 20.04?(**AMD Graphics Driver Issue**)
+      > https://github.com/tango4567/solutions/issues/23
       
       
 **Netbeans IDE**
