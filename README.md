@@ -6,7 +6,7 @@
  1. [Icons Rendered to Chinese character on android](https://github.com/tango4567/solutions/issues/21  )
 
 **TypeScript**
-  1. [Issue ***Angular8 firebase configuration error '@angular/fire/angularfire2'***](https://github.com/tango4567/solutions/issues/20)
+  1. [***Angular8*** firebase configuration error '@angular/fire/angularfire2'](https://github.com/tango4567/solutions/issues/20)
 
 **phpmyadmin**
   1. [Issue (Environment:- **Linux**)](https://github.com/tango4567/phpmyadmin/issues/1)
