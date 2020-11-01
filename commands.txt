@@ -1,4 +1,0 @@
-Yarn command creating React project with typeScript template 
---->  yarn create react-app database-connection --template typescript
-
-
