@@ -1,9 +1,9 @@
-1.[Closed issues](https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed)
-
-2.[Opened issues](https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue)
+1.[Closed issues](https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed) <br /> 
+2.[Opened issues](https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue)  <br /> 
+3.***[Useful Commands](https://github.com/tango4567/solutions/blob/master/COMMANDS.md)***  <br /> 
 
  **Flutter**
- 1. [Icons Rendered to Chinese character on android](https://github.com/tango4567/solutions/issues/21  )
+ 1. [Icons Rendered to Chinese character on android](https://github.com/tango4567/solutions/issues/21 )
 
 **TypeScript**
   1. [***Angular8*** firebase configuration error '@angular/fire/angularfire2'](https://github.com/tango4567/solutions/issues/20)
