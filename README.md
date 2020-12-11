@@ -36,6 +36,9 @@
  **Github**
  1. [Push declined due to email privacy?](https://github.com/tango4567/solutions/issues/9)
 
+ **Raspberry Pi**
+ 1. [Raspberry Pi 3 B Wifi driver not working(Raspberry Pi OS)](https://github.com/tango4567/solutions/issues/25)   
+ 
  **Python**
  1. [How to export Anaconda path in Ubuntu(Linux)](https://github.com/tango4567/solutions/issues/11)
 
