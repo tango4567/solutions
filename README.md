@@ -56,6 +56,7 @@
   
  **Java**
  1. [How to set java path  on Ubuntu 18.04 / 19.04 or higher ?](https://github.com/tango4567/solutions/issues/15)
+ 2. [Requirements check failed for JDK 8 ('1.8.*')! Detected version: 11.0.4](https://github.com/tango4567/solutions/issues/17)
       
  **Cordova**
  1. [How to fix Failed to load resource: net::ERR_CLEARTEXT_NOT_PERMITTED  ?](https://github.com/tango4567/solutions/issues/18)  
