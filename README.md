@@ -39,7 +39,8 @@
  2. [fatal: could not create work tree dir Permission Denied](https://github.com/cli/cli/discussions/3300)
 
  **Raspberry Pi**
- 1. [Raspberry Pi 3 B Wifi driver not working(Raspberry Pi OS)](https://github.com/tango4567/solutions/issues/25)   
+ 1. [Raspberry Pi 3 B Wifi driver not working(Raspberry Pi OS)](https://github.com/tango4567/solutions/issues/25)
+ 2. [Raspberry Pi 3 B+ Heroku Architecture Issue.](https://github.com/tango4567/solutions/issues/32)   
  
  **Python**
  1. [How to export Anaconda path in Ubuntu(Linux)](https://github.com/tango4567/solutions/issues/11)
