@@ -47,6 +47,7 @@
  2. [NoReverseMatch Error on Django Redirect](https://github.com/tango4567/solutions/issues/43)
  3. [python setup.py bdist_wheel did not run successfully](https://github.com/tango4567/solutions/issues/42)
  4. [Import "rest_framework" could not be resolved.](https://github.com/tango4567/solutions/issues/44)
+ 5. [How to get current timestamp in Python](https://github.com/tango4567/solutions/issues/45)
 
 **Angular** 
  1. [Unhandled rejection Error: EACCES: permission denied(Linux)](https://github.com/tango4567/solutions/issues/12)
