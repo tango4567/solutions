@@ -22,6 +22,7 @@
  **Android Issue**
  1. [ADB is not initializing but still showing loading.(**Firebase**)](https://github.com/tango4567/solutions/issues/7)
  2. [Why cleartext HTTP traffic is not allowed ?](https://github.com/tango4567/solutions/issues/8)
+ 3. [Android studio keyboard shortcut for code formatting in Mac](https://github.com/tango4567/solutions/issues/49)
 
 **Ubuntu Issue**
   1. [Need Solutions For Following failure.(**Linux**)](https://github.com/tango4567/solutions/issues/4)
