@@ -75,6 +75,7 @@
  1. [How to Switch Java and JDK version on Mac](https://github.com/tango4567/solutions/issues/50)
  2. [How to Uninstall BlackHole on Mac](https://github.com/tango4567/solutions/issues/52)
  3. [How do I close the Terminal in OSX from the command line?](https://github.com/tango4567/solutions/issues/53)
+ 4. [Finder Keyboard Shortcut Mac](https://github.com/tango4567/solutions/issues/53)
  
 ## Added ANDROID_HOME variable.(DEPRECATED)
   export ANDROID_HOME=$HOME/Android/Sdk && export PATH=$PATH:$ANDROID_HOME/tools && export PATH=$PATH:$ANDROID_HOME/platform-tools
