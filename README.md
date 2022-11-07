@@ -72,7 +72,8 @@
  1. [Default user name and password for kali linux virtual box vbox](https://github.com/tango4567/solutions/issues/30)
  
  **Mac(Intel)**
- 1. [How to Switch Java and JDK version on Mac](https://github.com/tango4567/solutions/issues/50) 
+ 1. [How to Switch Java and JDK version on Mac](https://github.com/tango4567/solutions/issues/50)
+ 2. [How to Uninstall BlackHole on Mac](https://github.com/tango4567/solutions/issues/52)
  
 ## Added ANDROID_HOME variable.(DEPRECATED)
   export ANDROID_HOME=$HOME/Android/Sdk && export PATH=$PATH:$ANDROID_HOME/tools && export PATH=$PATH:$ANDROID_HOME/platform-tools
