@@ -28,6 +28,7 @@
   2. [Why does “(base)” appear in front of my terminal prompt?(**Anaconda**)](https://github.com/tango4567/solutions/issues/19)
   3. [Why Black Screen on boot after installing amdgpu-pro 20.04?(**AMD Graphics Driver Issue**)](https://github.com/tango4567/solutions/issues/23)
   4. [Error mounting /dev/sdb1 at /media/](https://github.com/tango4567/solutions/issues/26)
+  5. [While installing/running mssql-conf setup showing Error: cannot find libcrypto.so.](https://github.com/tango4567/solutions/issues/56)
  
 **Netbeans IDE**
   1. [How to install Netbeans in Ubuntu.(**Linux**)](https://github.com/tango4567/solutions/issues/5)
