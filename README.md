@@ -5,6 +5,7 @@
  **Flutter**
  1. [Icons Rendered to Chinese character on android](https://github.com/tango4567/solutions/issues/21)
  2. [zsh: command not found: flutterfire](https://github.com/tango4567/solutions/issues/48)
+ 3. [Error running pod install Error launching application](https://github.com/tango4567/solutions/issues/60)
 
 **TypeScript**
   1. [***Angular8*** firebase configuration error '@angular/fire/angularfire2'](https://github.com/tango4567/solutions/issues/20)
