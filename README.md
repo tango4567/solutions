@@ -32,6 +32,7 @@
   4. [Error mounting /dev/sdb1 at /media/](https://github.com/tango4567/solutions/issues/26)
   5. [While installing/running mssql-conf setup showing Error: cannot find libcrypto.so.](https://github.com/tango4567/solutions/issues/56)
   6. [How to find files in terminal](https://github.com/tango4567/solutions/issues/58)
+  7. [Upgrading nodejs on Ubuntu: How to fix broken pipe error?](https://github.com/tango4567/solutions/issues/62)(Node)
  
 **Netbeans IDE**
   1. [How to install Netbeans in Ubuntu.(**Linux**)](https://github.com/tango4567/solutions/issues/5)
