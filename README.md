@@ -1,6 +1,6 @@
 1. [Closed issues](https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed) <br /> 
 2. [Opened issues](https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue)  <br /> 
-3. ***[Useful Commands](https://github.com/tango4567/solutions/blob/master/COMMANDS.md)***  <br /> 
+3. [Useful Commands](https://github.com/tango4567/solutions/blob/master/COMMANDS.md)  <br /> 
 
  **Flutter**
  1. [Icons Rendered to Chinese character on android](https://github.com/tango4567/solutions/issues/21)
@@ -9,7 +9,7 @@
  4. [FAILURE: Build failed with an exception. Flutter](https://github.com/tango4567/solutions/issues/61)
 
 **TypeScript**
-  1. [***Angular8*** firebase configuration error '@angular/fire/angularfire2'](https://github.com/tango4567/solutions/issues/20)
+  1. [**Angular8** firebase configuration error '@angular/fire/angularfire2'](https://github.com/tango4567/solutions/issues/20)
 
 **phpmyadmin**
   1. [Issue (Environment:- **Linux**)](https://github.com/tango4567/phpmyadmin/issues/1)
@@ -33,6 +33,7 @@
   5. [While installing/running mssql-conf setup showing Error: cannot find libcrypto.so.](https://github.com/tango4567/solutions/issues/56)
   6. [How to find files in terminal](https://github.com/tango4567/solutions/issues/58)
   7. [Upgrading nodejs on Ubuntu: How to fix broken pipe error?](https://github.com/tango4567/solutions/issues/62)(Node)
+  8. [FTP 550: Permission Denied](https://github.com/tango4567/solutions/issues/63)
  
 **Netbeans IDE**
   1. [How to install Netbeans in Ubuntu.(**Linux**)](https://github.com/tango4567/solutions/issues/5)
