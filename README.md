@@ -13,6 +13,9 @@
 
 **phpmyadmin**
   1. [Issue (Environment:- **Linux**)](https://github.com/tango4567/phpmyadmin/issues/1)
+
+**mysql**
+  1. [How to clear MySQL screen console in Windows?](https://github.com/tango4567/phpmyadmin/issues/67)
   
 **C++**
   1. [How to install C++ in Ubuntu 18.10 (Environment:- **Linux**)](https://github.com/tango4567/solutions/issues/2)
