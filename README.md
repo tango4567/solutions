@@ -85,4 +85,5 @@
  
  **Visual Studio Code**
  1. [How to switch text case in visual studio code](https://github.com/tango4567/solutions/issues/59)
-  
+
+![](https://komarev.com/ghpvc/?username=tango4567)
