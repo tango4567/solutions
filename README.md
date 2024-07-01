@@ -1,7 +1,3 @@
-1. [Closed issues](https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed) <br /> 
-2. [Opened issues](https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue)  <br /> 
-3. [Linux Commands](https://github.com/tango4567/solutions/blob/master/COMMANDS.md)  <br /> 
-
  **Flutter**
  1. [Icons Rendered to Chinese character on android](https://github.com/tango4567/solutions/issues/21)
  2. [zsh: command not found: flutterfire](https://github.com/tango4567/solutions/issues/48)
@@ -90,3 +86,8 @@
  1. [How to switch text case in visual studio code](https://github.com/tango4567/solutions/issues/59)
 
 ![](https://komarev.com/ghpvc/?username=tango4567)
+
+1. [Closed issues](https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed) <br /> 
+2. [Opened issues](https://github.com/tango4567/solutions/issues?q=is%3Aopen+is%3Aissue)  <br /> 
+3. [Linux Commands](https://github.com/tango4567/solutions/blob/master/COMMANDS.md)  <br /> 
+
