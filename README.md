@@ -3,6 +3,8 @@
  2. [zsh: command not found: flutterfire](https://github.com/tango4567/solutions/issues/48)
  3. [Error running pod install Error launching application](https://github.com/tango4567/solutions/issues/60)
  4. [FAILURE: Build failed with an exception. Flutter](https://github.com/tango4567/solutions/issues/61)
+ 5. [FirebaseAuth works perfectly in the local environment but fails on the live server after deployment](https://github.com/tango4567/solutions/issues/68)
+ 6. [How to remove default loader in flutter web app on top of screen](https://github.com/tango4567/solutions/issues/69)
 
 **TypeScript**
   1. [**Angular8** firebase configuration error '@angular/fire/angularfire2'](https://github.com/tango4567/solutions/issues/20)
