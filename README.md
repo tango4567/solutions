@@ -83,6 +83,7 @@
  2. [How to Uninstall BlackHole on Mac](https://github.com/tango4567/solutions/issues/52)
  3. [How do I close the Terminal in OSX from the command line?](https://github.com/tango4567/solutions/issues/53)
  4. [Finder Keyboard Shortcut Mac](https://github.com/tango4567/solutions/issues/54)
+ 5. [How to disable the accent menu and enable key repeat for all apps globally in iMac 15.3.2](https://github.com/tango4567/solutions/issues/72)
  
  **Visual Studio Code**
  1. [How to switch text case in visual studio code](https://github.com/tango4567/solutions/issues/59)
