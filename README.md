@@ -89,6 +89,10 @@
  **Visual Studio Code**
  1. [How to switch text case in visual studio code](https://github.com/tango4567/solutions/issues/59)
 
+ **Logitech G29 Wheel**
+ 1. [Logitech G29 Wheel RPM led not working for Mac OS with Intel (ATS | ETS)](https://github.com/tango4567/solutions/issues/75)
+
+ 
 ![](https://komarev.com/ghpvc/?username=tango4567)
 
 1. [Closed issues](https://github.com/tango4567/solutions/issues?q=is%3Aissue+is%3Aclosed) <br /> 
